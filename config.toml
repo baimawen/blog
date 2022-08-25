@@ -226,12 +226,19 @@ uglyURLs = false
         post = ""
         identifier = "tech"
     [[menu.main]]
-        url = "/life/"
-        name = "生活"
+        url = "/think/"
+        name = "思考"
         weight = 1
         pre = "internal"
         post = ""
-        identifier = "life"
+        identifier = "think"
+    [[menu.main]]
+        url = "/notes/"
+        name = "读书笔记"
+        weight = 3
+        pre = "internal"
+        post = ""
+        identifier = "notes"
 
 
 
