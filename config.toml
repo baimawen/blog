@@ -234,7 +234,7 @@ uglyURLs = false
         identifier = "think"
     [[menu.main]]
         url = "/notes/"
-        name = "读书笔记"
+        name = "读书&笔记"
         weight = 3
         pre = "internal"
         post = ""
